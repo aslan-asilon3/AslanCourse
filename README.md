@@ -1,4 +1,5 @@
 # AslanCourse
+![Screenshot_2](https://user-images.githubusercontent.com/75960970/162567495-5de5e8c6-02f0-485e-acb0-bbde9ca0d631.jpg)
 
 # website-sederhana
 
